@@ -25,12 +25,7 @@ Introduction Paragraph: A brief message or bio
 Hyperlink: A clickable link to another website
 
 Basic Styling: Use of fonts, colors, and spacing for improved appearance
-## 🎨 Design Style:
-Minimalist and clean layout
 
-Neutral background with readable text
-
-Focus on content clarity and simplicity
 ## 🎨 Design Style:
 Minimalist and clean layout
 
